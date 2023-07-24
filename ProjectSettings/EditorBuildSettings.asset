@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: 8071789b85db3e748bc9d431e1f2b557
+  - enabled: 1
+    path: Assets/Scenes/milkyway.unity
+    guid: 1154459c4fbec8e47aab99c8e9bf302e
+  - enabled: 1
+    path: Assets/Scenes/andromeda.unity
+    guid: 2536af57e19d59c41a034675992cb34b
+  m_configObjects: {}
